@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Pablo Robba</h1>
-<h3 align="center">A passionate data scientist developer from Argentina</h3>
+<h1 align="center">Hi there! 👋, I'm Pablo Robba</h1>
+<h3 align="center">A passionate data scientist from Argentina</h3>
 
 - 📫 How to reach me **pablorobba1998@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/pablo-robba-9269a4267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pablo-robba-9269a4267" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@pcrcovers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pcrcovers" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pablo-robba-9269a4267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo-robba-9269a4267" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pcrcovers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pcrcovers" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
